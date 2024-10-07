@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "name": "drums",
+    "file": "samples/drums.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "snare",
+    "file": "samples/snare.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "crash",
+    "file": "samples/crash.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }]
